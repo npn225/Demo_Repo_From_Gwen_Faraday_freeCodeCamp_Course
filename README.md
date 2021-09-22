@@ -5,3 +5,7 @@ Going through Gwen Faraday's Git and Github Course on FreeCodeCamp Youtube Chann
 ## Subheader for Demo README
 
 From watching the Gwen Faraday tutorial on FreeCodeCamp Youtube Channel! 
+
+## Local Development 
+
+Step 1. Open index.html in your browser!  
